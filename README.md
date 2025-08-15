@@ -7,7 +7,14 @@ You can choose the number of questions and log your progress automatically.
 
 ## Installation
 
-1. **Clone the repository and navigate into it:**
+0. ** Docker Image : **
+```shell
+docker pull s3ika/googly:latest
+```
+
+
+
+2. **Clone the repository and navigate into it:**
 
 ```bash
 git clone https://github.com/yourusername/Googly.git
