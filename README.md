@@ -1,4 +1,4 @@
-# Googly – Random Coding Questions CLI
+# Googly – Get Instantly LC questions asked by Google-[Terminal tool].
 
 Googly is a Python CLI tool that displays random coding questions from a dataset That have been asked in Google Interviews.
 You can choose the number of questions and log your progress automatically.
