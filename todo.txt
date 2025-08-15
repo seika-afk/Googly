@@ -1,0 +1,8 @@
+- Create the starting intro
+- choose number of questions
+- get q1 
+enter
+- save to file with date 
+- two options : continue , end
+
+- > show the duration worked
